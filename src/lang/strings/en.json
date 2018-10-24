@@ -1,0 +1,231 @@
+{
+    "Home": "Home",
+    "About": "About us",
+    "Technology": "Technology",
+    "Careers": "Careers",
+    "Media": "Media",
+    "Intro": "Introduction",
+    "IntroContent": "Driven by artificial intelligence, JingChi is a smart mobility company that intends to create Level 4 autonomous vehicles for the Chinese market. JingChi was founded in Silicon Valley in April 2017 and established its global headquarters in Guangzhou, China.",
+
+    "Concept": "Concept",
+    "ConceptContent": "JingChi’s mission is to promote the development of smart mobility that will make transportation safer, more efficient, more affordable, and more leisurely. We strive to become China’s leading smart mobility company by creating world-class smart vehicles through an integrated value chain that will benefit the country, the consumers, the company and the individual.",
+
+    "MoreInfo": "More Info",
+    "LidarCaption": "Multi-sensor fusion based on LiDAR",
+    "HdmapCaption": "High-definition map",
+    "PerceptionCaption": "Deep learning powered perception",
+
+    "Team": "Team",
+    "Consultant": "Advisors",
+    "TonyHan": "Tony Han",
+    "QingLu": "Qing Lu",
+    "HuaZhong": "Hua Zhong",
+    "QingxiongYang": "Qingxiong Yang",
+    "YanLi": "Yan Li",
+    "LiZhang": "Li Zhang",
+    "KaifuLi": "Kai-Fu Lee",
+    "DianKang": "Dian Kang",
+    "Takeo": "Takeo Kanade",
+
+    "TonyHanBio": [
+      "Former Chief Scientist of Baidu's Autonomous Driving Unit.",
+      "Tenured Professor of Electrical & Computer Engineering at the University of Missouri (MU).",
+      "Original contributor of DeepSpeech2, selected as one of ten breakthrough technologies in 2016 by MIT Technology Review."
+    ],
+    "QingLuBio": [
+      "Former CFO of Velodyne LiDAR, global leader in LiDAR development and manufacturing.",
+      "Former CFO of multiple Silicon Valley startups, including Symbio, Seven Networks, LitePoint, PortalPlayer, etc. with successful exits in one IPO and two acquisitions."
+    ],
+    "YanLiBio": [
+      "Previously worked at Facebook and Microsoft Research Asia (MSRA).",
+      "Ph.D. in Electrical and Computer Engineering from Carnegie Mellon University.",
+      "Former head of the autonomous driving engineering team of UCAR US."
+    ],
+    "QingxiongBio": [
+      "Was the Senior Director of the autonomous driving engineering team at Didi Chuxing.",
+      "Tenure-track assistant professor at the City University of Hong Kong.",
+      "Published 30+ top vision papers with more almost 6，000 total citations."
+    ],
+    "HuaZhongBio": [
+      "Previously worked at Microsoft Research Asia, Google, and Siemens Research.",
+      "Founding engineer of Peekabuy.",
+      "Ph.D. in Computer Science from Carnegie Mellon University.",
+      "Former Chief Architect of Autonomous Driving for UCAR US."
+    ],
+    "LiZhangBio": [
+      "Previously served in Cisco China for more than 19 years as SVP and Chief of Staff to Cisco’s CEO of the Greater China region.",
+      "EMBA from the Guanghua School of Management, Peking University."
+    ],
+    "KaifuLiBio": [
+      "One of China’s top technology investors, Founder and CEO of Sinovation Ventures",
+      "Renowned entrepreneurial mentor and computing expert"
+    ],
+    "DianKangBio": [
+      "Currently visiting professor of Sun Yat-sen University and University of International Business and Economics, visiting scholar of Cambridge, UK. University.",
+      "Strategic advisor to the Reinsurance Group of America (“RGA”) with $53 billion in assets.",
+      "Once served as Chairman & CEO of New China Life Insurance Company Ltd (“NCI”), and Chairman of New China Asset Management Co., Ltd."
+    ],
+    "TakeoBio": [
+      "The first generation of computer vision researchers.",
+      "Founding director of the Robotics Institute of Carnegie Mellon University, laying the foundation for Carnegie Mellon University’s academic position in the field of robotics.",
+      "Fellow of the National Academy of Engineering, Fellow of the American Academy of Arts and Sciences."
+    ],
+
+    "USCampus": "U.S. University Recruiting",
+    "ChinaCampus": "China University Recruiting",
+    "USRecruiting": "U.S. Careers",
+    "ChinaRecruiting": "China Careers",
+
+    "Culture": "Culture",
+    "Innovation": "Innovation",
+    "ResultsDriven": "Results Driven",
+    "TeamOriented": "Team Oriented",
+    "GrowTogether": "Grow Together",
+
+    "History": "History",
+    "HistoryTitles": [
+      "April 3, 2017",
+      "May 12, 2017",
+      "June 24, 2017",
+      "December 28, 2017",
+      "January 30, 2018",
+      "March 2018",
+      "June 2018",
+      "June 2018"
+    ],
+    "HistoryContents": [
+      "JingChi was founded in Silicon Valley",
+      "Completed our first closed-venue driverless testing",
+      "Completed our first autonomous public road test, the fastest company to reach this milestone",
+      "Global headquarters relocated to Guangzhou Development Zone and established China’s first operational autonomous vehicle fleet",
+      "JingChi launches China’s first long-term autonomous vehicle trial operation on Guangzhou’s Bio Island",
+      "First company to deploy autonomous vehicle long-distance tunnel crossing technology in China (no GPS)",
+      "Safely drove on public roads and completed long-distance tunnel crossing during a heavy rainstorm",
+      "Completed road tests for the Guangzhou Automobile Group (GAC) Jingchi GE3, an autonomous SUV developed in partnership with GAC"
+    ],
+    "ToBeContinue": [
+      "OUR",
+      "STORY",
+      "CONTINUES"
+    ],
+
+    "TechTitles": [
+      "Multiple obstacle detection based on artificial intelligence",
+      "Citywide HD maps and high-precision localization completely developed in-house",
+      "Novel multi-sensor fusion solution",
+      "Large-scale simulation system",
+      "Automotive hardware and software innovation and integration",
+      "Vehicle localization based on LiDAR point cloud, GPS, IMU, and computer vision"
+    ],
+
+    "CareerDesc": "Come join a fast-growing team of talented innovators and creators in Silicon Valley and China. We encourage new hires to tackle challenging problems that will propel JingChi's technology and success. Come join us and work on cutting edge autonomous technology and revolutionize mobility!",
+
+    "ControlSystemEngineer": "Control System Engineer",
+    "MotionPlanningEngineer": "Motion Planning Engineer",
+    "PerceptionEngineer": "Perception Engineer",
+    "SoftwareEngineerFrontend": "Software Engineer - Frontend",
+    "SoftwareEngineerMappingLocalization": "Software Engineer - Mapping & Localization",
+    "SoftwareEngineerNewGrads": "Software Engineer - New Grads",
+    "SoftwareEngineerIntern": "Software Engineer Intern",
+    "SrITEngineerManagerBeijing": "Sr. IT Engineer - Manager (Beijing)",
+    "SystemEngineer": "System Engineer",
+
+    "Contact": "Contact:",
+    "Phone": "Phone",
+    "Fax": "Fax:",
+    "Email": "Email:",
+    "PREmail": "PR Email:",
+    "HREmail": "HR Email:",
+    "Address": "Address:",
+    "USContact": "U.S. R&D:",
+    "GZContact": "China Headquarters:",
+    "BJContact": "Beijing Office:",
+    "AQContact": "Anqing Operations Center:",
+    "GuangzhouAddress": "Building C1, Bio Island International Apartment, No. 86, Xingdao South Road, Haizhu District, Guangzhou",
+    "BeijingAddress": "No. 602-603 Jinqiu International Building, Zhichun Road, Haidian District, Beijing",
+    "AnqingAddress": "11th Floor, Building A7, Zhumeng New District, No.188 Wenyuan Road, Yixiu District, Anqing City, Anhui Province",
+
+    "Reservation": "预约试乘",
+    "Name": "Name",
+    "Sumbit": "Sumbit",
+
+    "readMore": "Read More",
+
+    "News": "Press",
+    "Videos": "Test Drive Videos",
+    "Events": "Recent Activities",
+
+    "NewsTitles": [
+      "景驰科技二沙岛无人驾驶运营视频",
+      "深度丨建立合资公司，深度参与运营：详解景驰的无人驾驶生意经",
+      "探访景驰广州总部，你想知道的都在这里",
+      "景驰无人车披露最新技术进展，2年后开启国内规模化运营 | 视频",
+      "景驰自动驾驶闪耀2018中国创交会舞台",
+      "对话韩旭：使用广汽传祺暴雨天测试，景驰迈向“新”一站",
+      "中国首例！景驰自动驾驶在暴雨中成功穿越珠江隧道！",
+      "景驰科技获创新工场投资 韩旭：李开复支持我们发展",
+      "驶向未来，景驰无人驾驶首次亮相2018北京车展"
+    ],
+
+    "NewsDates": [
+      "2018年7月12日",
+      "2018年7月11日",
+      "2018年7月9日",
+      "2018年7月6日",
+      "2018年6月26日",
+      "2018年6月14日",
+      "2018年6月12日",
+      "2018年5月10日",
+      "2018年4月25日"
+    ],
+
+    "NewsContents": [
+      "7月4日，景驰无人车惊艳亮相广州市二沙岛，展开无人驾驶运营。",
+      "“景驰的‘景’字拆开来，就是日和京。”景驰科技主管运营的副总裁张力，在从机场到公司的路上对亿欧汽车记者说起了公司名称的来历。“其中，‘日’字代表景驰科技在美国的出生地，Sunnyvale。而‘京’这个字，则取了中国首都北京的简称，蕴涵蕴含着我们从......",
+      "前段时间，谷歌 Waymo 购买 2 万辆纯电动版 I-PACE+6.2 万辆 Pacifica，软银 22.5 亿美元投资通用旗下的自动驾驶公司 Cruise，无人驾驶领域两大「氪金」玩家突然开始加注筹码，「大象转身」让整个行业震动。是否大局已定？剩余的选手都是骨灰亦或者......",
+      "景驰无人车最近怎么样了？在6月初，他们对外展示过台风天穿越江底隧道的路测视频，秀了一把传感器融合、定位以及感知算法上的技术实力。但对于景驰来说，这还不够。因为他们的核心目标是实现L4级无人驾驶车队的城市运营，而且还是在中国，这就要求......",
+      "2018年6月22日，为期三天的2018中国创新创业成果交易会拉开帷幕。自动驾驶明星创业公司景驰科技被邀请参展。展台上，景驰科技展出了与广汽合作研发的国产自动驾驶汽车——广汽景驰GE3，同时为参展嘉宾们带来了景驰自动驾驶最新的暴雨穿越隧道......",
+      "雷锋网按：景驰正在向“新”一站迈进。在刚刚过去的三个月里，景驰依然是媒体们所热烈关注的对象，有关于景驰科技下一站将驶向何方，是否能保持之前的景驰速度；韩旭将如何领导景驰；也是外界一直所聚焦的事情。回望过去的一年时间里，景驰刷新了L4......",
+      "6月8日，广州连续 21 个小时普降大暴雨，局部特大暴雨，路况十分复杂，严重影响交通出行。如此恶劣的天气，对自动驾驶是一个很大的挑战。地面积水会影响控制系统，路面溅起的水花会则会影响感知，厚的云层会让 GPS 失效。各个传感器都很容易受到暴......",
+      "雷帝网 乐天 5月10日报道.继加入百度 Apollo开放平台，成Apollo合作伙伴后，无人驾驶企业景驰科技又获创新工场投资。景驰科技日前透露2018年的目标与规划。除完成A轮融资外，景驰无人车运营范围将覆盖广州方圆15~20公里。同时，景驰全球员工扩大到......",
+      "4月25日，两年一度的北京国际车展隆重拉开帷幕。此届车展 “黑”科技云集，一场新车盛宴激情上演。其中，更有景驰科技带来的最新L4级别无人驾驶汽车首次亮相北京车展，为公众呈现人工智能出行的智慧与魅力。这也是北京车展历史上首现无人驾驶......"
+    ],
+
+    "NewsUrls": [
+      "https://zhuanlan.zhihu.com/p/39583165",
+      "https://www.iyiou.com/p/76635",
+      "http://geekcar.com/archives/85366",
+      "http://www.sohu.com/a/239620253_610300",
+      "http://www.sohu.com/a/237800721_463934",
+      "http://www.sohu.com/a/235656701_114877",
+      "http://www.sohu.com/a/235377010_99951428",
+      "https://wallstreetcn.com/articles/3307648",
+      "http://auto.gasgoo.com/News/2018/04/25084044404470039610C601.shtml"
+    ],
+
+    "simulator": "Large-scale simulation",
+    "rainyFast": "Driving through the Pearl River Tunnel during a typhoon rainstorm",
+    "mixRoad": "Handling complex Chinese road conditions",
+    "smallRoad": "Driving in complex Chinese rush hour traffic",
+    "smallRoadSlowdown": "Driving in complex road conditions with light rain",
+    "ersha": "Operating in Guangzhou",
+
+    "PastEvents": "Recent Activities",
+    "Location": "Location: ",
+    "Date": "Date: ",
+    "EventsTitle": [
+      "Jingchi offers autonomous vehicle rides on Ersha Island, Guangzhou",
+      "2018 Beijing International Auto Show",
+      "2017 China Innovation and Entrepreneurship Fair"
+    ],
+    "EventsLocation": [
+      "Guangzhou",
+      "Beijing",
+      "Guangzhou"
+    ],
+    "EventsDate": [
+      "2018.07.04",
+      "2018.04.27—2018.05.04",
+      "2017.05.26—2017.05.27"
+    ]
+}
