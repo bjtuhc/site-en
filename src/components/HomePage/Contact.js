@@ -31,7 +31,7 @@ export default class Contact extends React.Component {
                     'contact-subtitle': true,
                     'contact-inline-content': true,
                   })}>
-                    pr@jingchi.ai
+                    pr@weride.ai
                   </div>
                 </div>
                 <div>
@@ -42,7 +42,7 @@ export default class Contact extends React.Component {
                     'contact-subtitle': true,
                     'contact-content': true,
                   })}>
-                    careers@jingchi.ai
+                    careers@weride.ai
                   </div>
                   <div className={classNames({
                     'contact-subtitle': true,
