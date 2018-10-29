@@ -1,2 +1,2 @@
 // default to en
-import './cn';
+import './en';
