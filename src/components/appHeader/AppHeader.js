@@ -64,7 +64,7 @@ export default class AppHeader extends React.Component {
                        'language-selected': currentLanguage === 'cn',
                      })}
                      onClick={() => onLanguageChange('cn')}>
-                     <a href="http://www.jing-chi.com">中</a>
+                     <a href="http://cn.weride.ai">中</a>
                   </div>
                   <div className='language-seperator'><a>|</a></div>
                   <div className={classNames({
