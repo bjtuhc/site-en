@@ -62,12 +62,12 @@ export default class  extends React.Component {
                     align='center'
                 >
                 如果希望提前进入面试环节，欢迎尽早提交简历至
-                <a href='mailto:campus@jingchi.ai'>campus@jingchi.ai</a>。
+                <a href='mailto:campus@weride.ai'>campus@weride.ai</a>。
                 也可在宣讲会现场递交简历，与景驰的工程师团队深入交流！
                 </Paragraph>
                 <SectionTitle caption='面试流程' marginTop={60} />
                 <ul className='process-ul'>
-                    <li>提交简历至campus@jingchi.ai或直接带至宣讲会现场</li>
+                    <li>提交简历至campus@weride.ai或直接带至宣讲会现场</li>
                     <li>参加在线笔试</li>
                     <li>参加1-2轮电话技术面试</li>
                     <li>参加onsite 技术面试</li>

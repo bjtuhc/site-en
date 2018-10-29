@@ -76,7 +76,7 @@ export default class extends React.Component {
         return (
             <div className='campus-container'>
                 <div className='submit-resume-cn'>
-                    请投递简历至 <a href="mailto:campus@jingchi.ai">campus@jingchi.ai
+                    请投递简历至 <a href="mailto:campus@weride.ai">campus@weride.ai
                         </a></div>
                 <ul className='title-list'>
                     {title}

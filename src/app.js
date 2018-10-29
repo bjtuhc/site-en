@@ -75,11 +75,13 @@ class AppRoot extends React.Component {
                       setAnchor={() => this.onAnchorChange('Technology')}
                     />
                   }/>
+                  {/*
                   <Route exact path='/media' render={() =>
                     <Media
                       setAnchor={() => this.onAnchorChange('Media')}
                     />
                   }/>
+                  */}
                   <Route exact path='/jobs' component={Jobs}/>
 
                   <Route exact path='/control-system-engineer'
@@ -124,7 +126,7 @@ class AppRoot extends React.Component {
               <Contact />
               <Footer justify='center'>
                 <div id='footer'>
-                  Copyright © 2018 JingChi.ai
+                  Copyright © 2018 WeRide.ai
                 </div>
               </Footer>
             </Article>

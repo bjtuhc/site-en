@@ -5,10 +5,10 @@
     "Careers": "Careers",
     "Media": "Media",
     "Intro": "Introduction",
-    "IntroContent": "Driven by artificial intelligence, JingChi is a smart mobility company that intends to create Level 4 autonomous vehicles for the Chinese market. JingChi was founded in Silicon Valley in April 2017 and established its global headquarters in Guangzhou, China.",
+    "IntroContent": "Driven by artificial intelligence, WeRide is a smart mobility company that intends to create Level 4 autonomous vehicles for the Chinese market. WeRide was founded in Silicon Valley in April 2017 and established its global headquarters in Guangzhou, China.",
 
     "Concept": "Concept",
-    "ConceptContent": "JingChi’s mission is to promote the development of smart mobility that will make transportation safer, more efficient, more affordable, and more leisurely. We strive to become China’s leading smart mobility company by creating world-class smart vehicles through an integrated value chain that will benefit the country, the consumers, the company and the individual.",
+    "ConceptContent": "WeRide’s mission is to promote the development of smart mobility that will make transportation safer, more efficient, more affordable, and more leisurely. We strive to become China’s leading smart mobility company by creating world-class smart vehicles through an integrated value chain that will benefit the country, the consumers, the company and the individual.",
 
     "MoreInfo": "More Info",
     "LidarCaption": "Multi-sensor fusion based on LiDAR",
@@ -94,11 +94,11 @@
       "June 2018"
     ],
     "HistoryContents": [
-      "JingChi was founded in Silicon Valley",
+      "WeRide was founded in Silicon Valley",
       "Completed our first closed-venue driverless testing",
       "Completed our first autonomous public road test, the fastest company to reach this milestone",
       "Global headquarters relocated to Guangzhou Development Zone and established China’s first operational autonomous vehicle fleet",
-      "JingChi launches China’s first long-term autonomous vehicle trial operation on Guangzhou’s Bio Island",
+      "WeRide launches China’s first long-term autonomous vehicle trial operation on Guangzhou’s Bio Island",
       "First company to deploy autonomous vehicle long-distance tunnel crossing technology in China (no GPS)",
       "Safely drove on public roads and completed long-distance tunnel crossing during a heavy rainstorm",
       "Completed road tests for the Guangzhou Automobile Group (GAC) Jingchi GE3, an autonomous SUV developed in partnership with GAC"
@@ -118,7 +118,7 @@
       "Vehicle localization based on LiDAR point cloud, GPS, IMU, and computer vision"
     ],
 
-    "CareerDesc": "Come join a fast-growing team of talented innovators and creators in Silicon Valley and China. We encourage new hires to tackle challenging problems that will propel JingChi's technology and success. Come join us and work on cutting edge autonomous technology and revolutionize mobility!",
+    "CareerDesc": "Come join a fast-growing team of talented innovators and creators in Silicon Valley and China. We encourage new hires to tackle challenging problems that will propel WeRide's technology and success. Come join us and work on cutting edge autonomous technology and revolutionize mobility!",
 
     "ControlSystemEngineer": "Control System Engineer",
     "MotionPlanningEngineer": "Motion Planning Engineer",

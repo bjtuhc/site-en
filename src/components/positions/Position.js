@@ -88,8 +88,8 @@ export default class Position extends React.Component {
           </Headline>
           <Markdown content={content} />
           <p className="jobs-footer">
-            Apply jobs at <a href="engineer@jingchi.ai">
-            engineer@jingchi.ai</a></p>
+            Apply jobs at <a href="engineer@weride.ai">
+            engineer@weride.ai</a></p>
         </div>
       </section>
     );

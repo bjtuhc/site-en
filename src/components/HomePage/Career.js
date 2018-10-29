@@ -65,7 +65,7 @@ export default class Career extends React.Component {
         <center>
             <a
                 className="job-btn"
-                href='https://app.mokahr.com/apply/jingchi'
+                href='https://app.mokahr.com/apply/weride'
                 target='_blank'
             >
               查看职位
@@ -88,7 +88,7 @@ export default class Career extends React.Component {
         <Paragraph className="spanning-paragraph"
                    size="medium" margin="none" align='center'>
             {getMessage('CareerDesc')}
-         {/* <a href="engineer@jingchi.ai">engineer@jingchi.ai</a>. */}
+         {/* <a href="engineer@weride.ai">engineer@weride.ai</a>. */}
         </Paragraph>
         {jobs}
       </Box>

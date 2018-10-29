@@ -52,7 +52,7 @@ export default class  extends React.Component {
                     align='center'
                 >
                 Please send your resume
-                to <a href='mailto:campus@jingchi.ai'>campus@jingchi.ai</a>
+                to <a href='mailto:campus@weride.ai'>campus@weride.ai</a>
                 </Paragraph> */}
                 <SectionTitle caption='Process' marginTop={60} />
                 <ul className='process-ul'>
@@ -64,7 +64,7 @@ export default class  extends React.Component {
                     <li className='process-li'>
                         Participate onsite tech interviews.</li>
                     <li className='process-li'>
-                        Get an offer and join JingChi team!</li>
+                        Get an offer and join WeRide team!</li>
                 </ul>
                 <SectionTitle caption='Deadline' marginTop={60} />
                 <Paragraph

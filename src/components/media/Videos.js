@@ -3,6 +3,7 @@ import React from "react";
 import { Box, Video } from "grommet";
 import { getMessage } from '../../utils';
 
+/*
 import simulator from "assets/videos/simulator.mp4";
 import rainyFast from "assets/videos/rainy_fast.mp4";
 import mixRoad from "assets/videos/mix_road.mp4";
@@ -56,3 +57,4 @@ export default class Videos extends React.Component {
     );
   }
 }
+*/

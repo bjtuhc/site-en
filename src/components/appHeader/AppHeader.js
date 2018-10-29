@@ -44,15 +44,20 @@ export default class AppHeader extends React.Component {
                 currentAnchor={currentAnchor}
                 marginRight={280}
               />
+              <div class="menu-anchor"></div>
+              {/*
               <CareerSelector
                 currentAnchor={currentAnchor}
               />
+              */}
+              {/*
               <MenuAnchor
                 href='/media'
                 label='Media'
                 currentAnchor={currentAnchor}
                 marginRight={44}
               />
+              */}
               <div>
                   <div className={classNames({
                        'language-selector': true,
@@ -67,7 +72,7 @@ export default class AppHeader extends React.Component {
                        'language-selected': currentLanguage === 'en',
                      })}
                      onClick={() => onLanguageChange('en')}>
-                      <a href="http://www.jingchi.ai">EN</a>
+                      <a href="http://www.weride.ai">EN</a>
                   </div>
               </div>
           </Menu>
