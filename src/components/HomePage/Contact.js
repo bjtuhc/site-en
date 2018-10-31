@@ -3,7 +3,7 @@ import React from "react";
 import { getMessage } from '../../utils';
 
 import classNames from 'classnames';
-import logo from "assets/logo-blue.png";
+import logo from "assets/logo.png";
 
 
 export default class Contact extends React.Component {
@@ -40,14 +40,9 @@ export default class Contact extends React.Component {
                   </div>
                   <div className={classNames({
                     'contact-subtitle': true,
-                    'contact-content': true,
+                    'contact-inline-content': true,
                   })}>
                     careers@weride.ai
-                  </div>
-                  <div className={classNames({
-                    'contact-subtitle': true,
-                    'contact-content': true,
-                  })}>
                   </div>
                 </div>
               </div>

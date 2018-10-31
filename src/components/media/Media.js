@@ -55,6 +55,7 @@ export default class Media extends React.Component {
             >
               {getMessage('News')}
             </div>
+            {/*
             <div
               className={classNames({
                 'media-option': true,
@@ -73,11 +74,14 @@ export default class Media extends React.Component {
             >
               {getMessage('Events')}
             </div>
+            */}
           </div>
         </div>
         {this.state.currentPage === 'News' && <News />}
+        {/*
         {this.state.currentPage === 'Videos' && <Videos />}
         {this.state.currentPage === 'Events' && <Events />}
+        */}
       </div>
     );
   }

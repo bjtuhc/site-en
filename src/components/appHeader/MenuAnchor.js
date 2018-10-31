@@ -6,7 +6,8 @@ import { getMessage } from '../../utils';
 
 export default class MenuAnchor extends React.Component {
   render() {
-    const { label, href, marginRight, currentAnchor, onClick } = this.props;
+    const { label, href, marginLeft, marginRight, currentAnchor,
+      onClick } = this.props;
     return (
       <div className='menu-anchor'>
         <Anchor
@@ -18,6 +19,7 @@ export default class MenuAnchor extends React.Component {
           })}
           onClick={() => onClick && onClick()}
           style={{
+            marginLeft: marginLeft ? marginLeft : 0,
             marginRight: marginRight,
             fontSize: 18,
           }}

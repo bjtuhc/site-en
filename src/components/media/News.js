@@ -1,6 +1,7 @@
 import React from "react";
 import { Box } from "grommet";
 import { Next } from 'grommet-icons';
+import {Link} from "react-router-dom";
 
 import SectionTitle from "components/HomePage/SectionTitle";
 
@@ -18,19 +19,27 @@ import news180712 from "assets/news/180712.jpg";
 class NewsItem extends React.Component {
   render() {
     const { thumbnail, title, url, date, content } = this.props;
+    const readMore = getMessage('readMore');
+    console.log(url);
+    console.log(url.startsWith('http'));
     return (
       <div className='news-item'>
+        {/*
         <a href={url} target='_blank'>
           <img className='news-thumbnail' src={thumbnail} />
         </a>
+        */}
         <div className='news-content'>
           <div className='news-title'>{title}</div>
           <div className='news-date'>{date}</div>
           <div className='news-text'>{content}</div>
+          {url.startsWith('http') ?
           <a className='news-read-more' href={url} target='_blank'>
-            {getMessage('readMore')}
+            {readMore}
             <Next className='news-read-more-icon'/>
-          </a>
+          </a> :
+          <Link to={url}>{readMore}</Link>
+          }
         </div>
       </div>
     );
@@ -39,21 +48,26 @@ class NewsItem extends React.Component {
 
 export default class News extends React.Component {
   render() {
-    const titles = getMessage('NewsTitles');
-    const dates = getMessage('NewsDates');
+    //const titles = getMessage('NewsTitles');
+    //const dates = getMessage('NewsDates');
     const contents = getMessage('NewsContents');
-    const urls = getMessage('NewsUrls');
-    const thumbnails = [
-      news180712,
-      news180711,
-      news180709,
-      news180706,
-      news180626,
-      news180614,
-      news180608,
-      news180510,
-      news180425,
-    ];
+    //const urls = getMessage('NewsUrls');
+    //const thumbnails = [
+    //  news180712,
+    //  news180711,
+    //  news180709,
+    //  news180706,
+    //  news180626,
+    //  news180614,
+    //  news180608,
+    //  news180510,
+    //  news180425,
+    //];
+    const titles = [
+      "ALLIANCE VENTURES LEADS STRATEGIC INVESTMENT IN WERIDE.AI"];
+    const dates = ["10/31/2018"];
+    const urls = ["/series-a"];
+
     return (
       <div className='news-container'>
         <Box className="section-area">
@@ -63,7 +77,6 @@ export default class News extends React.Component {
                 <NewsItem
                   key={index}
                   title={title}
-                  thumbnail={thumbnails[index]}
                   url={urls[index]}
                   date={dates[index]}
                   content={contents[index]}

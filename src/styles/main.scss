@@ -145,7 +145,7 @@
 }
 
 .header {
-  background: rgba(0, 0, 0, 0.55) url('../assets/logo-w.png') no-repeat center;
+  background: rgba(0, 0, 0, 0.55) url('../assets/logo150-white.png') no-repeat center;
   background-size: 140px;
   position: fixed !important;
   height: 120px;
@@ -1053,4 +1053,48 @@ ul.recruit-schedule {
 }
 .events-date {
   margin: 5px 0;
+}
+
+.news-series-a {
+    padding: 132px 16px;
+    max-width: 960px;
+    margin: 0 auto;
+    .news-headline {
+        font-size: 32px;
+    }
+    .grommetux-headline--small {
+        margin-top: 12px;
+        font-size: 24px;
+        font-style: italic;
+    }
+    .grommetux-paragraph {
+        max-width: 100%;
+        color: #333;
+        line-height: 1.65;
+        margin-bottom: 30px;
+
+        img {
+            @media screen and (max-width: 960px) {
+                width: 100%;
+            }
+            display: inline-block;
+            width: 100%;
+        }
+    }
+    h3.grommetux-heading {
+        margin: 0 auto;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    p.news-footer {
+        max-width: 100%;
+        margin: 0;
+        text-align: center;
+        font-weight: 300;
+        color: #333;
+        line-height: 1.65;
+    }
+    .fa {
+        margin-right: 10px;
+    }
 }

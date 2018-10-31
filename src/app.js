@@ -14,6 +14,7 @@ import About from 'components/about/About';
 import Media from 'components/media/Media';
 import Technology from 'components/HomePage/Technology';
 import Contact from "components/HomePage/Contact";
+import NewsSeriesA from "components/news/SeriesA";
 import {ControlSystemEngineer, MotionPlanningEngineer, PerceptionEngineer,
         FrontendEngineer, MappingLocalizationEngineer,
         SoftwareEngineerNewGrads, SoftwareEngineerIntern,
@@ -75,14 +76,12 @@ class AppRoot extends React.Component {
                       setAnchor={() => this.onAnchorChange('Technology')}
                     />
                   }/>
-                  {/*
                   <Route exact path='/media' render={() =>
                     <Media
                       setAnchor={() => this.onAnchorChange('Media')}
                     />
                   }/>
-                  */}
-                  <Route exact path='/jobs' component={Jobs}/>
+                  <Route exact path='/series-a' component={NewsSeriesA}/>
 
                   <Route exact path='/control-system-engineer'
                     component={ControlSystemEngineer}
