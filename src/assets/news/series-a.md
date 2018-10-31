@@ -10,37 +10,37 @@ Utilizing the latest investment, WeRide.ai plans to deploy a fleet of 500 autono
 Pre-A round lead-investor, Qiming Venture Capital participated in the latest round, which was also supported by Hanfor Capital, Atop Capital, Johnson Electric, Xiaopeng He, Idinvest Partners, and OceanIQ Capital. 
 WeRide.ai, which currently has more than 200 employees worldwide – 70% of whom are engineers, is the first autonomous driving company in China to use 5G network for remote control of a driverless vehicle. The company’s goal is to bring autonomous vehicle operations into Chinese cities by 2020 and become the world's first large-scale commercial application of autonomous vehicle technology.
 
-* <span style="color:orange">ABOUT RENAULT-NISSAN-MITSUBISHI</span>
+**ABOUT RENAULT-NISSAN-MITSUBISHI**
 
 Groupe Renault, Nissan Motor Company and Mitsubishi Motors represent the world’s largest automotive alliance. It is the longest-lasting and most productive cross-cultural partnership in the auto industry. Together, the partners sold more than 10.6 million vehicles in nearly 200 countries in 2017. The member companies are focused on collaboration and maximizing synergies to boost competitiveness. They have strategic collaborations with other automotive groups, including Germany’s Daimler and China’s Dongfeng. This strategic alliance is the industry leader in zero-emission vehicles and is developing the latest advanced technologies, with plans to offer autonomous drive, connectivity features and services on a wide range of affordable vehicles.
 
-www.alliance-2022.com
+[www.alliance-2022.com](https://www.alliance-2022.com/)
+<br>
+[www.media.renault.com](https://www.media.renault.com/)
+<br>
+[www.nissan-newsroom.com](https://www.nissan-newsroom.com)
+<br>
+[www.mitsubishi-motors.com/en/newsrelease/](https://www.mitsubishi-motors.com/en/newsrelease/)
 
-www.media.renault.com 
+**ABOUT WeRide.ai**
 
-www.nissan-newsroom.com 
+Founded in 2017 by Tony Han together with a group of talented individuals, WeRide.ai has emerged as the leading autonomous driving company aiming to achieve large-scale, commercial deployment of fully L4 autonomous vehicles for the public. WeRide.ai is committed to using artificial intelligence to deliver fully autonomous vehicles that operate without human intervention to perceive the environment and deliver a safe, robust, and convenient Mobility as a Service. WeRide.ai is a privately held company headquartered in Guangzhou, with offices in Sunnyvale, Beijing and Anqing.
 
-www.mitsubishi-motors.com/en/newsrelease/ 
+[www.weride.ai](https://www.weride.ai)
 
-* <span style="color:orange">ABOUT WeRide.ai</span>
-
-Founded in 2017 by Tony Han together with a group of talented individuals, WeRide.ai has emerged as the leading autonomous driving company aiming to achieve large-scale, commercial deployment of fully L4 autonomous vehicles for the public. WeRdi.ai is committed to using artificial intelligence to deliver fully autonomous vehicles that operate without human intervention to perceive the environment and deliver a safe, robust, and convenient Mobility as a Service. WeRide.ai is a privately held company headquartered in Guangzhou, with offices in Sunnyvale, Beijing and Anqing. 
-www.weride.ai 
-
-* <span style="color:orange">MEDIA CONTACTS</span>
+**MEDIA CONTACTS**
 
 Caroline Sasia
-
+<br>
 Alliance Communications, Renault-Nissan-Mitsubishi
-
-+33 (0) 6 11 30 36 71
-
+<br>
++33 (0) 611303671
+<br>
 caroline.sasia-lallier@alliance-rnm.com 
 
-<br>
 
 Jinyan Ou
-
+<br>
 Public Relations, WeRide.ai
-
+<br>
 jinyan.ou@weride.ai 

@@ -38,7 +38,10 @@ class NewsItem extends React.Component {
             {readMore}
             <Next className='news-read-more-icon'/>
           </a> :
-          <Link to={url}>{readMore}</Link>
+          <Link to={url}
+                style={{'color': '#2883d7'}}>
+                {readMore}
+          </Link>
           }
         </div>
       </div>

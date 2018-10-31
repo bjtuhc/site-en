@@ -42,14 +42,12 @@ export default class AppHeader extends React.Component {
                 href='/tech'
                 label='Technology'
                 currentAnchor={currentAnchor}
-                marginRight={350}
+                marginRight={280}
               />
               <div class="menu-anchor"></div>
-              {/*
               <CareerSelector
                 currentAnchor={currentAnchor}
               />
-              */}
               <MenuAnchor
                 href='/media'
                 label='Media'

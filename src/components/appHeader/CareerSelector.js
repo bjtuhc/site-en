@@ -16,13 +16,13 @@ export default class CareerSelector extends React.Component {
       <div className='career-menu'>
         <ul>
           <li>
-            <a href='https://app.mokahr.com/campus_apply/weride'
+            <a href='https://app.mokahr.com/campus_apply/jingchi'
               target='_blank'>
               {getMessage('ChinaCampus')}
             </a>
           </li>
           <li>
-            <a href='https://app.mokahr.com/apply/weride' target='_blank'>
+            <a href='https://app.mokahr.com/apply/jingchi' target='_blank'>
               {getMessage('ChinaRecruiting')}
             </a>
           </li>
