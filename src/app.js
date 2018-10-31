@@ -82,6 +82,7 @@ class AppRoot extends React.Component {
                     />
                   }/>
                   <Route exact path='/series-a' component={NewsSeriesA}/>
+                  <Route exact path='/jobs' component={Jobs}/>
 
                   <Route exact path='/control-system-engineer'
                     component={ControlSystemEngineer}
