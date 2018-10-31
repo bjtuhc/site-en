@@ -20,8 +20,6 @@ class NewsItem extends React.Component {
   render() {
     const { thumbnail, title, url, date, content } = this.props;
     const readMore = getMessage('readMore');
-    console.log(url);
-    console.log(url.startsWith('http'));
     return (
       <div className='news-item'>
         {/*
