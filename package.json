@@ -1,9 +1,9 @@
 {
-  "name": "jingchi-ai",
+  "name": "weride-ai",
   "version": "0.1.0",
-  "description": "JingChi.ai website.",
+  "description": "WeRide.ai website.",
   "main": "index.js",
-  "author": "Jingchi Corp",
+  "author": "WeRide.ai",
   "license": "MIT",
   "scripts": {
     "build": "node_modules/.bin/webpack -p",
