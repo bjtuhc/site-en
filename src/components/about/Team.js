@@ -29,8 +29,8 @@ export default class Team extends React.Component {
     const memberTitles = [
       'CFO',
       'CTO',
-      'VP Engineering',
-      'VP Operations',
+      'SVP Engineering',
+      'Acting Chief Operating Officer',
     ];
     const consultantTitles = [
       "Business Advisor",
