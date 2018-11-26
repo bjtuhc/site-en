@@ -26,16 +26,11 @@ export default class Team extends React.Component {
       getMessage("DianKang"),
       getMessage("Takeo"),
     ];
-    const memberTitles = [
-      'CFO',
-      'CTO',
-      'SVP Engineering',
-      'Acting Chief Operating Officer',
-    ];
+    const memberTitles = getMessage("executiveTitles");
     const consultantTitles = [
-      "Business Advisor",
-      "Business Advisor",
-      "Technical Advisor"
+      getMessage("BusinessAdvisorTitle"),
+      getMessage("BusinessAdvisorTitle"),
+      getMessage("TechnicalAdvisorTitle"),
     ];
     const memberPortraits = [
       qingPortrait,

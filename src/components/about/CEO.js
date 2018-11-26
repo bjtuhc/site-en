@@ -15,7 +15,7 @@ export default class CEO extends React.Component {
         <div className='ceo-info'>
           <img className='team-portrait' src={tonyPortrait}/>
           <div className='team-member-name'>{getMessage('TonyHan')}</div>
-          <div className='team-member-job'>CEO</div>
+          <div className='team-member-job'>{getMessage('TonyHanTitle')}</div>
         </div>
         <div className='ceo-bio'>
           <MemberBio bio={getMessage('TonyHanBio')} />

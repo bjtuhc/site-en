@@ -23,6 +23,17 @@
   "KaifuLi": "李开复",
   "DianKang": "康典",
   "Takeo": "Takeo Kanade",
+
+  "TonyHanTitle": "首席执行官兼联合创始人",
+  "executiveTitles": [
+    "首席财务官兼总裁及联合创始人",
+    "首席技术官兼联合创始人",
+    "工程资深副总裁",
+    "首席运营官"
+  ],
+  "BusinessAdvisorTitle": "商业顾问",
+  "TechnicalAdvisorTitle": "技术顾问",
+
   "TonyHanBio": [
     "前百度自动驾驶首席科学家。",
     "美国伊利诺伊大学博士、密苏里大学终身教授，计算机视觉和机器学习实验室主任。",

@@ -27,6 +27,16 @@
     "DianKang": "Dian Kang",
     "Takeo": "Takeo Kanade",
 
+    "TonyHanTitle": "CEO & Co-founder",
+    "executiveTitles": [
+      "CFO, President & Co-founder",
+      "CTO & Co-founder",
+      "SVP of Engineering",
+      "Chief Operation Officer"
+    ],
+    "BusinessAdvisorTitle": "Business Advisor",
+    "TechnicalAdvisorTitle": "Technical Advisor",
+
     "TonyHanBio": [
       "Former Chief Scientist of Baidu's Autonomous Driving Unit.",
       "Tenured Professor of Electrical & Computer Engineering at the University of Missouri (MU).",
