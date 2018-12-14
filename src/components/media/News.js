@@ -49,7 +49,7 @@ class NewsItem extends React.Component {
 
 export default class News extends React.Component {
   render() {
-    //const titles = getMessage('NewsTitles');
+    const titles = getMessage('NewsTitles');
     //const dates = getMessage('NewsDates');
     const contents = getMessage('NewsContents');
     //const urls = getMessage('NewsUrls');
@@ -64,8 +64,8 @@ export default class News extends React.Component {
     //  news180510,
     //  news180425,
     //];
-    const titles = [
-      "ALLIANCE VENTURES LEADS STRATEGIC INVESTMENT IN WERIDE.AI"];
+    // const titles = [
+    //   "ALLIANCE VENTURES LEADS STRATEGIC INVESTMENT IN WERIDE.AI"];
     const dates = ["10/31/2018"];
     const urls = ["/series-a"];
 

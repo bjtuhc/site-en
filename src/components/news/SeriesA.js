@@ -1,6 +1,7 @@
 import React from "react";
 import { Section, Headline, Box, Markdown } from "grommet";
-import contentTemplate from "assets/news/series-a.md";
+import contentTemplate from "assets/news/series-a-cn.md";
+import { getMessage } from "../../utils";
 
 export default class NewsSeriesA extends React.Component {
 
@@ -10,13 +11,14 @@ export default class NewsSeriesA extends React.Component {
 
   render() {
     const content = contentTemplate;
+    const seriesAHeadLine = getMessage('NewsTitles')[0];
 
     return (
       <section>
         <div className="news-series-a">
           <Headline className="news-headline"
                     strong={true} size="medium" align="center">
-ALLIANCE VENTURES LEADS STRATEGIC INVESTMENT IN WERIDE.AI
+            {seriesAHeadLine}
           </Headline>
 
           <Markdown content={content} />
