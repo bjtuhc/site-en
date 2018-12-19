@@ -1,7 +1,9 @@
 import React from "react";
 import { Section, Headline, Box, Markdown } from "grommet";
-import contentTemplate from "assets/news/series-a-cn.md";
-import { getMessage } from "../../utils";
+import contentTemplate from "assets/news/series-a.md";
+import contentTemplateCN from "assets/news/series-a-cn.md";
+import seriesANewsCarImage from "assets/news/series-a-news-car.jpg";
+import { getMessage, getLocale } from "../../utils";
 
 export default class NewsSeriesA extends React.Component {
 
@@ -10,7 +12,12 @@ export default class NewsSeriesA extends React.Component {
   }
 
   render() {
-    const content = contentTemplate;
+    const isCN = getLocale() === 'cn';
+    let content = isCN ? contentTemplateCN : contentTemplate;
+    if (isCN) {
+      content = content.replace('series-a-news-car-image',
+        seriesANewsCarImage);
+    }
     const seriesAHeadLine = getMessage('NewsTitles')[0];
 
     return (
