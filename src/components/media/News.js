@@ -64,10 +64,10 @@ export default class News extends React.Component {
     //  news180510,
     //  news180425,
     //];
-    // const titles = [
-    //   "ALLIANCE VENTURES LEADS STRATEGIC INVESTMENT IN WERIDE.AI"];
-    const dates = ["10/31/2018"];
-    const urls = ["/series-a"];
+
+    // Place the dates in descending order.
+    const dates = ["1/4/2019", "10/31/2018"];
+    const urls = ["/series-a-update", "/series-a"];
 
     return (
       <div className='news-container'>
