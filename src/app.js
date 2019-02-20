@@ -16,6 +16,7 @@ import Technology from 'components/HomePage/Technology';
 import Contact from "components/HomePage/Contact";
 import NewsSeriesA from "components/news/SeriesA";
 import NewsSeriesAUpdate from "components/news/SeriesAUpdate";
+import BeyondLimit from "components/news/BeyondLimit";
 import {ControlSystemEngineer, MotionPlanningEngineer, PerceptionEngineer,
         FrontendEngineer, MappingLocalizationEngineer,
         SoftwareEngineerNewGrads, SoftwareEngineerIntern,
@@ -85,6 +86,8 @@ class AppRoot extends React.Component {
                   <Route exact path='/series-a' component={NewsSeriesA}/>
                   <Route exact path='/series-a-update'
                     component={NewsSeriesAUpdate}/>
+                    <Route exact path='/beyond-limit'
+                    component={BeyondLimit}/>
                   <Route exact path='/jobs' component={Jobs}/>
 
                   <Route exact path='/control-system-engineer'
