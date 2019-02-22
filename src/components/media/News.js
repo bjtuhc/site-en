@@ -6,15 +6,10 @@ import {Link} from "react-router-dom";
 import SectionTitle from "components/HomePage/SectionTitle";
 
 import { getMessage } from '../../utils';
-import news180425 from "assets/news/180425.jpg";
-import news180510 from "assets/news/180510.jpg";
-import news180608 from "assets/news/180608.jpg";
-import news180614 from "assets/news/180614.jpg";
-import news180626 from "assets/news/180626.jpg";
-import news180706 from "assets/news/180706.jpg";
-import news180709 from "assets/news/180709.jpg";
-import news180711 from "assets/news/180711.jpg";
-import news180712 from "assets/news/180712.jpg";
+import seriesAImg from "assets/news/series-a-news-car.jpg";
+import seriesAUpdateImg from "assets/news/series-a-update-news-car.jpg";
+import beyondLimit from "assets/news/beyond-limit.jpg";
+
 
 class NewsItem extends React.Component {
   render() {
@@ -22,11 +17,9 @@ class NewsItem extends React.Component {
     const readMore = getMessage('readMore');
     return (
       <div className='news-item'>
-        {/*
-        <a href={url} target='_blank'>
-          <img className='news-thumbnail' src={thumbnail} />
-        </a>
-        */}
+        <div>
+          <img className='news-thumbnail'src={thumbnail} />
+        </div>
         <div className='news-content'>
           <div className='news-title'>{title}</div>
           <div className='news-date'>{date}</div>
@@ -52,10 +45,10 @@ export default class News extends React.Component {
     const titles = getMessage('NewsTitles');
     //const dates = getMessage('NewsDates');
     const contents = getMessage('NewsContents');
-    //const urls = getMessage('NewsUrls');
-    //const thumbnails = [
-    //  news180712,
-    //  news180711,
+    const thumbnails = [
+      beyondLimit,
+      seriesAUpdateImg,
+      seriesAImg,
     //  news180709,
     //  news180706,
     //  news180626,
@@ -63,11 +56,11 @@ export default class News extends React.Component {
     //  news180608,
     //  news180510,
     //  news180425,
-    //];
+    ];
 
     // Place the dates in descending order.
     const dates = ["2/19/2019", "1/4/2019", "10/31/2018"];
-    const urls = ["beyond-limit","/series-a-update", "/series-a"];
+    const urls = ["/beyond-limit","/series-a-update", "/series-a"];
 
     return (
       <div className='news-container'>
@@ -81,6 +74,7 @@ export default class News extends React.Component {
                   url={urls[index]}
                   date={dates[index]}
                   content={contents[index]}
+                  thumbnail={thumbnails[index]}
               />);
             })}
           </div>

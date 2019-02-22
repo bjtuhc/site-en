@@ -1,5 +1,7 @@
 <div style="text-align: center">
-<iframe width="600" height="400" frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=j0837pqtner" allowFullScreen="true"></iframe>
+<video width="80%" height="auto" controls>
+<source  src="src/assets/news/pr-compressed.mp4" type="video/mp4" >
+</video>
 <p>WeRide, BEYOND THE LIMIT</p>
 </div>
 
