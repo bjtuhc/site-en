@@ -2,7 +2,7 @@
 <video width="80%" height="auto" controls>
 <source  src="src/assets/news/pr-compressed.mp4" type="video/mp4" >
 </video>
-<p>WeRide, BEYOND THE LIMIT</p>
+<p>WeRide, WITHOUT LIMITS</p>
 </div>
 
 2018 was an extraordinary year for L4 autonomous driving technology. Despite all the difficulties and challenges, the technology managed to make its way forward. Instead of being considered as a futuristic technology, it is more of a disruptive innovation for future urban construction and human mobility. Nowadays, more and more talents with bold ideas and passion join the force to advance the technology.
@@ -13,4 +13,4 @@ At the beginning of 2019, a greater momentum was achieved. WeRide received the S
 
 No matter what challenges we might face in the future, WeRide will continue driving the technology revolution, and benefit people’s everyday life with our autonomous driving solutions.
 
-2019, BEYOND THE LIMIT.
+2019, WITHOUT LIMITS.

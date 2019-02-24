@@ -2,7 +2,7 @@
 <video width="80%" height="auto" controls>
 <source  src="src/assets/news/pr-compressed.mp4" type="video/mp4" >
 </video>
-<p>文远知行, WeRide BEYOND THE LIMIT</p>
+<p>文远知行, WeRide WITHOUT LIMITS</p>
 </div>
 
 2018年是L4级自动驾驶不平凡的一年，得到了更多人的关注，当中有支持，也有质疑，可喜的是无人驾驶在大家眼中不再仅仅是黑科技，它将在不久的未来成为我们出行生活必不可少的一部分。坚信这个科技的还有不断加入到这股浪潮中，有梦想、有信念、有才华的知行者。
@@ -13,4 +13,4 @@
 
 内心热血奔腾，无论前路是康庄大道还是荆棘满途，文远知行WeRide始终心怀谦卑与信心，以L4级自动驾驶变革人类未来的出行。
 
-2019, BEYOND THE LIMIT.
+2019, WITHOUT LIMITS.
