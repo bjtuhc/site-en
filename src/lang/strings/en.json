@@ -96,22 +96,38 @@
     "HistoryTitles": [
       "April 3, 2017",
       "May 12, 2017",
-      "June 24, 2017",
-      "December 28, 2017",
-      "January 30, 2018",
+      "June 2017",
+      "August, 2017",
+      "September 2017",
+      "December, 2017",
+      "January, 2018",
       "March 2018",
+      "April 2018",
       "June 2018",
-      "June 2018"
+      "June 2018",
+      "August 2018",
+      "September 2018",
+      "October 2018",
+      "November 2018",
+      "January 2019"
     ],
     "HistoryContents": [
       "WeRide was founded in Silicon Valley",
       "Completed our first closed-venue driverless testing",
       "Completed our first autonomous public road test, the fastest company to reach this milestone",
-      "Global headquarters relocated to Guangzhou Development Zone and established China’s first operational autonomous vehicle fleet",
+      "Anqing Operation Center was founded",
+      "A combined $57 million was raised in pre-A investment round",
+      "Relocated global headquarter to Guangzhou and established China’s first operational autonomous vehicle fleet",
       "WeRide launches China’s first long-term autonomous vehicle trial operation on Guangzhou’s Bio Island",
       "First company to deploy autonomous vehicle long-distance tunnel crossing technology in China (no GPS)",
+      "Beijing R&D branch was founded",
       "Safely drove on public roads and completed long-distance tunnel crossing during a heavy rainstorm",
-      "Completed road tests for the Guangzhou Automobile Group (GAC) Jingchi GE3, an autonomous SUV developed in partnership with GAC"
+      "Completed road tests for the Guangzhou Automobile Group (GAC) Jingchi GE3, an autonomous SUV developed in partnership with GAC",
+      "Unveiled precise vehicle control technology and launched remote control system in both USA and China",
+      "Re-branded to WeRide with new logo (previously JingChi).    Became the first autonomous driving company in China to apply a 5G network for remote control of a driverless vehicle through strategic partnership with China Unicom and announced the establishment of a joint lab",
+      "Completed Series A fund raising led by strategic investor Alliance Renault-NissanMitsubishi, making WeRide the first L4 autonomous driving start-up company in China to receive investment from and form strategic partnership with a global top tier automaker",
+      "Launched the 1st L4 RoboTaxi service in China in partnership with Baiyun Public Transport Group and started trial operation in Guangzhou",
+      "Received another two significant investments in its Series A round from SenseTime Technology and ABC International (a wholly owned subsidiary of Agricultural Bank of China), reaching tens of millions of US dollars"
     ],
     "ToBeContinue": [
       "OUR",
@@ -166,6 +182,7 @@
     "Events": "Recent Activities",
 
     "NewsTitles": [
+      "Meet WeRide at NVIDIA GTC in Silicon Valley!",
       "2019, Without Limits",
       "WeRide Series A Fundraising Update",
       "ALLIANCE VENTURES LEADS STRATEGIC INVESTMENT IN WERIDE.AI"
@@ -196,6 +213,7 @@
     ],
 
     "NewsContents": [
+      "NVIDIA’s GTC (GPU Technology Conference) will soon set sail on its 2019 world tour", 
       "2018 was an extraordinary year for L4 autonomous driving technology.",
       "Another Tens of Millions US Dollars from SenseTime and ABC International",
       "Renault-Nissan-Mitsubishi and WeRide.ai to increase presence in Chinese autonomous vehicle services"

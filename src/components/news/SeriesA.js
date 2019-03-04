@@ -18,7 +18,7 @@ export default class NewsSeriesA extends React.Component {
       content = content.replace('series-a-news-car-image',
         seriesANewsCarImage);
     }
-    const seriesAHeadLine = getMessage('NewsTitles')[2];
+    const seriesAHeadLine = getMessage('NewsTitles')[3];
 
     return (
       <section>

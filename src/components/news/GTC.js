@@ -1,5 +1,5 @@
 import React from "react";
-import { Section, Headline, Box, Markdown } from "grommet";
+import { Headline, Markdown } from "grommet";
 import contentTemplate from "assets/news/beyond-limit.md";
 import contentTemplateCN from "assets/news/beyond-limit-cn.md";
 import { getMessage, getLocale } from "../../utils";
@@ -13,7 +13,7 @@ export default class BeyondLimit extends React.Component {
   render() {
     const isCN = getLocale() === 'cn';
     const content = isCN ? contentTemplateCN : contentTemplate;
-    const beyondHeadLine = getMessage('NewsTitles')[1];
+    const beyondHeadLine = getMessage('NewsTitles')[0];
 
     return (
       <section>
