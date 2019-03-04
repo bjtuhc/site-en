@@ -880,8 +880,8 @@ ul.recruit-schedule {
 }
 
 .history {
-  background: url('../assets/history/background.png') no-repeat center;
-  height: 2007px;
+  background: url('../assets/history/history-background.png') no-repeat center;
+  height: 2119px;
   margin: 35px 20px 100px;
   @media screen and (max-width: 1000px) {
     height: 300vw;
@@ -903,15 +903,11 @@ ul.recruit-schedule {
 .history-content-left {
   position: relative;
   text-align: right;
-  height: 164px;
-  margin-bottom: 64px;
-  padding-top: 50px;
+  min-height: 90px;
   padding-right: 135px;
   width: 50%;
   @media screen and (max-width: 1000px) {
-    height: 24.5vw;
-    margin-bottom: 9.55vw;
-    padding-top: 7.46vw;
+    min-height: 55px !important;
     padding-right: 20.15vw;
   }
 }
@@ -919,28 +915,25 @@ ul.recruit-schedule {
   position: absolute;
   right: 0;
   text-align: left;
-  height: 164px;
-  margin-bottom: 64px;
-  padding-top: 50px;
+  min-height: 90px;
   padding-left: 135px;
   width: 50%;
   @media screen and (max-width: 1000px) {
-    height: 24.5vw;
-    margin-bottom: 9.55vw;
-    padding-top: 7.46vw;
+    min-height: 55px !important;
     padding-left: 20.15vw;
     padding-right: 20px;
   }
 }
 .history-content-empty {
-  height: 230px;
+  height: 130px;
   @media screen and (max-width: 1000px) {
-    height: 34.3vw;
+    height: 17.0vw;
   }
 }
 .history-title {
   font-size: 24px;
   font-weight: 500;
+  color: #1ab6bb;
   @media screen and (max-width: 1000px) {
     font-size: 3.3vw;
   }
@@ -948,7 +941,7 @@ ul.recruit-schedule {
 .history-text-right {
   font-size: 18px;
   @media screen and (max-width: 1000px) {
-    font-size: 2.7vw;
+    font-size: 1.7vw;
     left: 20vw;
   }
   font-weight: 100;
@@ -964,7 +957,7 @@ ul.recruit-schedule {
   right: 135px;
   position: absolute;
   @media screen and (max-width: 1000px) {
-    font-size: 2.7vw;
+    font-size: 1.7vw;
     right: 20vw;
   }
 }
