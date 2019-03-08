@@ -9,6 +9,7 @@ export default class History extends React.Component {
   render() {
     const titles = getMessage('HistoryTitles');
     const contents = getMessage('HistoryContents');
+    const toBeContinue = getMessage('ToBeContinue');
     const mq = window.matchMedia( "(max-width: 1000px)" );
     console.log(mq);
     const style = !mq.matches?{height: 170}:{height:120};

@@ -62,7 +62,7 @@ export default class News extends React.Component {
 
     // Place the dates in descending order.
     const dates = ["3/8/2019", "2/19/2019", "1/4/2019", "10/31/2018"];
-    const urls = ["GTC", "/beyond-limit","/series-a-update", "/series-a"];
+    const urls = ["/GTC", "/beyond-limit","/series-a-update", "/series-a"];
 
     return (
       <div className='news-container'>
