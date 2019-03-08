@@ -1,7 +1,8 @@
 import React from "react";
 import { Headline, Markdown } from "grommet";
-import contentTemplate from "assets/news/beyond-limit.md";
-import contentTemplateCN from "assets/news/beyond-limit-cn.md";
+import contentTemplate from "assets/news/gtc.md";
+import contentTemplateCN from "assets/news/gtc-cn.md";
+import GTCImage from "assets/news/GTC.jpg";
 import { getMessage, getLocale } from "../../utils";
 
 export default class BeyondLimit extends React.Component {
@@ -12,7 +13,9 @@ export default class BeyondLimit extends React.Component {
 
   render() {
     const isCN = getLocale() === 'cn';
-    const content = isCN ? contentTemplateCN : contentTemplate;
+    let content = isCN ? contentTemplateCN : contentTemplate;
+    content = content.replace('gtc-image',
+      GTCImage);
     const beyondHeadLine = getMessage('NewsTitles')[0];
 
     return (
