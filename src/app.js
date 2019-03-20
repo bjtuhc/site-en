@@ -18,6 +18,7 @@ import NewsSeriesA from "components/news/SeriesA";
 import NewsSeriesAUpdate from "components/news/SeriesAUpdate";
 import BeyondLimit from "components/news/BeyondLimit";
 import GTC from "components/news/GTC";
+import GTCUpdate from "components/news/GTCUpdate";
 import {ControlSystemEngineer, MotionPlanningEngineer, PerceptionEngineer,
         FrontendEngineer, MappingLocalizationEngineer,
         SoftwareEngineerNewGrads, SoftwareEngineerIntern,
@@ -91,6 +92,8 @@ class AppRoot extends React.Component {
                     component={BeyondLimit}/>
                   <Route exact path='/GTC'
                     component={GTC}/>
+                  <Route exact path='/GTC-update'
+                    component={GTCUpdate}/>
                   <Route exact path='/jobs' component={Jobs}/>
 
                   <Route exact path='/control-system-engineer'
