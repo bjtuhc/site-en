@@ -25,7 +25,7 @@
 
 .grommetux-anchor {
   @media screen and (max-width: 1000px) {
-    color: #ffffff !important;
+    color:#2883d7 !important;
     text-align: center;
     margin-right: 0 !important;
   }
@@ -1089,5 +1089,10 @@ ul.recruit-schedule {
     }
     .fa {
         margin-right: 10px;
+    }
+    li{
+      color: black !important;
+      line-height: 1.65 !important;
+      font-size: 16px !important;
     }
 }
