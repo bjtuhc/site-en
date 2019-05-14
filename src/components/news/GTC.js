@@ -16,7 +16,7 @@ export default class BeyondLimit extends React.Component {
     let content = isCN ? contentTemplateCN : contentTemplate;
     content = content.replace('gtc-image',
       GTCImage);
-    const beyondHeadLine = getMessage('NewsTitles')[0];
+    const beyondHeadLine = getMessage('NewsTitles')[2];
 
     return (
       <section>
