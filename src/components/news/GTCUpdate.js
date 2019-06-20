@@ -18,7 +18,7 @@ export default class GTCUpdate extends React.Component {
       content = content.replace('gtc-update',
         GTCUpdateImageCN);
     }
-    const HeadLine = getMessage('NewsTitles')[1];
+    const HeadLine = getMessage('NewsTitles')[2];
 
     return (
       <section>

@@ -13,7 +13,7 @@ export default class BeyondLimit extends React.Component {
   render() {
     const isCN = getLocale() === 'cn';
     const content = isCN ? contentTemplateCN : contentTemplate;
-    const beyondHeadLine = getMessage('NewsTitles')[3];
+    const beyondHeadLine = getMessage('NewsTitles')[4];
 
     return (
       <section>

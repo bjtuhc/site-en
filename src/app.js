@@ -20,6 +20,7 @@ import BeyondLimit from "components/news/BeyondLimit";
 import GTC from "components/news/GTC";
 import GTCUpdate from "components/news/GTCUpdate";
 import Milken from "components/news/milken";
+import RoadTest from "components/news/roadTest";
 import {ControlSystemEngineer, MotionPlanningEngineer, PerceptionEngineer,
         FrontendEngineer, MappingLocalizationEngineer,
         SoftwareEngineerNewGrads, SoftwareEngineerIntern,
@@ -97,6 +98,8 @@ class AppRoot extends React.Component {
                     component={GTCUpdate}/>
                   <Route exact path='/Milken-institute'
                     component={Milken}/>
+                  <Route exact path='/road-test'
+                    component={RoadTest}/>
                   <Route exact path='/jobs' component={Jobs}/>
 
                   <Route exact path='/control-system-engineer'

@@ -12,6 +12,7 @@ import beyondLimit from "assets/news/beyond-limit.jpg";
 import GTCImg from "assets/news/GTC.jpg";
 import GTCUpdateImg from "assets/news/gtc-update.jpg";
 import MilkenImg from "assets/news/milken.jpg";
+import RoadTestImg from "assets/news/roadTest.jpg";
 
 
 class NewsItem extends React.Component {
@@ -49,12 +50,13 @@ export default class News extends React.Component {
     //const dates = getMessage('NewsDates');
     const contents = getMessage('NewsContents');
     const thumbnails = [
+      RoadTestImg,
       MilkenImg,
       GTCUpdateImg,
       GTCImg,
       beyondLimit,
       seriesAUpdateImg,
-      seriesAImg,
+      seriesAImg
     //  news180709,
     //  news180706,
     //  news180626,
@@ -66,6 +68,7 @@ export default class News extends React.Component {
 
     // Place the dates in descending order.
     const dates = [
+      "6/20/2019",
       "5/12/2019",
       "3/18/2019",
       "3/8/2019",
@@ -73,6 +76,7 @@ export default class News extends React.Component {
       "1/4/2019",
       "10/31/2018"];
     const urls = [
+      "/road-test",
       "/Milken-institute",
       "/GTC-update",
       "/GTC",
