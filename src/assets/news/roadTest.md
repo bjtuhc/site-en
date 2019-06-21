@@ -25,10 +25,3 @@ WeRide's autonomous vehicles have accumulated a total mileage of 500,0000km and 
 
 For more information, please visit [www.weride.ai](https://www.weride.ai)
 
-**MEDIA INQUIRY**
-
-Jinyan Ou
-<br>
-Public Relations, WeRide.ai
-<br>
-jinyan.ou@weride.ai 
