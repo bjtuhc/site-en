@@ -62,7 +62,7 @@ export default class Contact extends React.Component {
     const emailLabelMsg = ['Email', 'PREmail', 'HREmail'];
     const phoneLabel = getMessage('Phone');
     const addressLabel = getMessage('Address');
-    const USAddress = '330 Gibraltar Drive, Sunnyvale, CA, 94089';
+    const USAddress = '2630 Orchard Pkwy, San Jose, CA 95131';
 
     return (
       <div className='contact-container'>
